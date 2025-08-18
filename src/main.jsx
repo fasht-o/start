@@ -8,4 +8,4 @@ createRoot(document.getElementById("root")).render(
     <App />
   </StrictMode>
 );
-console.log("tos");
+console.log("tose");
