@@ -5,7 +5,7 @@ import Header from "./components/Header";
 import Sidebar from "./components/sidebar";
 import TextCard from "./components/TextCard";
 import { BsStars } from "react-icons/bs";
-import Icons from "./components/icons";
+
 import TextIcons from "./components/TextIcons";
 ("./components/Header");
 
