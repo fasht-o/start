@@ -10,7 +10,7 @@ import greenicon from "../assets/greenicon.png";
 import { BsStars } from "react-icons/bs";
 import { CiMenuBurger } from "react-icons/ci";
 import { IoMdClose } from "react-icons/io";
-import Icons from "./icons";
+import Icons from "./Icons.jsx";
 
 const Sidebar = () => {
   const [showSide, setshowSide] = useState(false);
